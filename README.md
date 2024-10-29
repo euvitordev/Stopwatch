@@ -3,9 +3,7 @@
 
 _Stopwatch_ é um aplicativo de console em **C#** que oferece funcionalidades de **temporizador** (Timer) e **cronômetro** (Chronometer). Esta versão está em fase inicial de desenvolvimento (Beta 0.1), e você pode acompanhar o progresso e contribuir!
 
-# 🚀 [**Download do Aplicativo**](https://github.com/euvitordev/Stopwatch/releases/download/v0.1/Stopwatch.exe) 🖱️
-
-Clique no botão acima para baixar a versão mais recente do aplicativo.
+##### 🚀 [**Download do Aplicativo**](https://github.com/euvitordev/Stopwatch/releases/tag/v0.0.1-beta.1) 🖱️
 
 ---
 
